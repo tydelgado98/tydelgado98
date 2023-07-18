@@ -23,3 +23,7 @@ Hey, I'm Justin Tyler Delgado, a 24-year-old with a strong passion for coding. I
 <br />
 
 #
+
+### Stats
+
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tydelgado98&show_icons=true&theme=gotham)
