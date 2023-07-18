@@ -1,7 +1,7 @@
 # tydelgado98
 
 
-**`FullStack Developer`** (this file) appears on your GitHub profile.
+**`FullStack Developer`**
 
 Here are some ideas to get you started:
 
