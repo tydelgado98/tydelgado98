@@ -3,7 +3,7 @@
 
 **`FullStack Developer`**
 
-Hello! :), I'm Justin Tyler Delgado, 24-years old with a strong passion for coding. I excel in finding innovative solutions and thrive on the challenges that programming brings. With my easygoing nature and quick problem-solving skills. I love seeing people smile, and I'm known for bringing laughter to any situation. I enjoy exploring new technologies and constantly expanding my skill set. So, if you're looking for a versatile and easygoing collaborator who can code with precision and add a touch of laughter to the team, I'm your guy!
+Hello! :), I'm Justin Tyler Delgado, 25-years old with a strong passion for coding. I excel in finding innovative solutions and thrive on the challenges that programming brings. With my easygoing nature and quick problem-solving skills. I love seeing people smile, and I'm known for bringing laughter to any situation. I enjoy exploring new technologies and constantly expanding my skill set. So, if you're looking for a versatile and easygoing collaborator who can code with precision and add a touch of laughter to the team, I'm your guy!
 
 ---
 
